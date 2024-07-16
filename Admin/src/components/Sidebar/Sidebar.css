@@ -1,0 +1,5 @@
+.slidebarer .active{
+    background-color: tomato;
+    color: white;
+    font-weight: 800;
+}
